@@ -36,7 +36,7 @@ This project is a **Lawyer Appointment Management Application** designed for sma
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/varshith5577/Lawfirm_appointment.git>
+   git clone <https://github.com/varshith5577/Lawyer-Management-Application.git>
    cd lawyer-appointment-management-application
    ```
 
